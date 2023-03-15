@@ -1,6 +1,6 @@
 Terceiro Projeto FreeCodeCamp - Criação de um forumulário
 
-Tags HTML:
+Tags HTML
     - form {method & action};
     - label (for);
     - input(
@@ -20,5 +20,6 @@ Tags HTML:
         textarea {rows, cols, placeholder}, 
         fieldset,
     )
- Tags CSS: 
-    - input[type="inputname"];
+    
+Tags CSS
+  - input[type="inputname"];
